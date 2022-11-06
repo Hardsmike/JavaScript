@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63c740cf-d14e-4dad-8ee1-ba0e63de6fd5" name="Changes" comment="Add Homework №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="63c740cf-d14e-4dad-8ee1-ba0e63de6fd5" name="Changes" comment="Add HomeWork JS №2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <workItem from="1667301850854" duration="2410000" />
       <workItem from="1667570613938" duration="401000" />
       <workItem from="1667571038563" duration="2490000" />
-      <workItem from="1667741003561" duration="2068000" />
+      <workItem from="1667741003561" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="Add Homework №1">
       <created>1667303924690</created>
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667304013044</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add HomeWork JS №2">
+      <created>1667743119124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667743119124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Homework №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Homework №1" />
+    <MESSAGE value="Add HomeWork JS №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HomeWork JS №2" />
   </component>
 </project>

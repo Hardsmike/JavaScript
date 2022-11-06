@@ -1,15 +1,7 @@
 // ------FIRST TASK-------
-const array = [100, 20, 'array', true, false, 102030, 'hey', 'no matter', 'ivan', 3];
-console.log(array[0]);
-console.log(array[1]);
-console.log(array[2]);
-console.log(array[3]);
-console.log(array[4]);
-console.log(array[5]);
-console.log(array[6]);
-console.log(array[7]);
-console.log(array[8]);
-console.log(array[9]);
+let array = [100, 20];
+array[9] = 'no matter';
+console.log(array);
 
 
 //--------SECOND TASK--------
