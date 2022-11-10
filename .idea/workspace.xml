@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63c740cf-d14e-4dad-8ee1-ba0e63de6fd5" name="Changes" comment="Add HomeWork JS №2" />
+    <list default="true" id="63c740cf-d14e-4dad-8ee1-ba0e63de6fd5" name="Changes" comment="Add HomeWork JS №2[edit]">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Intellije projects/JavaScript/lesson 2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intellije projects/JavaScript&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript",
-      "PLAIN_TEXT",
-      "AngularJS"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;,
+      &quot;PLAIN_TEXT&quot;,
+      &quot;AngularJS&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intellije projects\JavaScript\lesson 2" />
@@ -63,6 +65,9 @@
       <workItem from="1667570613938" duration="401000" />
       <workItem from="1667571038563" duration="2490000" />
       <workItem from="1667741003561" duration="2139000" />
+      <workItem from="1667743424078" duration="126000" />
+      <workItem from="1667845403168" duration="640000" />
+      <workItem from="1668100382581" duration="3121000" />
     </task>
     <task id="LOCAL-00001" summary="Add Homework №1">
       <created>1667303924690</created>
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667743119124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add HomeWork JS №2[edit]">
+      <created>1667743544498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667743544498</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Homework №1" />
     <MESSAGE value="Add HomeWork JS №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HomeWork JS №2" />
+    <MESSAGE value="Add HomeWork JS №2[edit]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HomeWork JS №2[edit]" />
   </component>
 </project>
